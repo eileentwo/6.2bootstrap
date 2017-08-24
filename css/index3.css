@@ -1,0 +1,14 @@
+section {
+	width: 750px;
+}
+
+.NT-left,
+.NT-middle>li:nth-of-type(1),
+.NT-right a {
+	display: none;
+}
+
+
+.webs li {
+	width: 50%;
+}

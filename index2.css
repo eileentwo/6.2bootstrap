@@ -1,0 +1,38 @@
+section {
+	width:400px;
+}
+.nav-top {
+	height: 50px;
+	line-height: 50px;
+}
+
+.NT-middle {
+	display: none;
+	width: 100%;
+	background-color: #222;
+	line-height: 40px;
+	padding: 6px 0 9px;
+	border-top: 1px solid #383838;
+	border-bottom: 1px solid #080808;
+	position: absolute;
+	left: 0;
+	top: 50px;
+}
+.NT-middle li {
+	float: none;
+	padding-left: 15px;
+}
+
+
+.NT-right a {
+	display: none;
+}
+
+.NT-right span:before,
+.nav-top:active .NT-middle {
+	display: block;
+}
+
+.webs li {
+	width: 100%;
+}

@@ -1,0 +1,9 @@
+section {
+	width:1170px;
+	padding:0 15px;
+	margin: 0 auto;
+}
+
+.webs li {
+	width: 25%;
+}
